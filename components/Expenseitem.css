@@ -1,0 +1,22 @@
+.header {
+  font-family: fantasy;
+  font-size: 30px;
+  text-align: center;
+}
+.title {
+  width: 50%;
+  border: 2px solid wheat;
+  /* justify-content: center; */
+  display: flex;
+  margin: auto;
+  flex-wrap: wrap;
+}
+.title  div {
+    width: 30%;
+    margin: auto;
+}
+/* .title div:nth-child(1){
+    background-color: red;
+    /* flex-grow: 2; */
+  
+/* } */ 
